@@ -13,8 +13,5 @@
 
 
 
-*** Totalpoäng 29 poäng *** varav *** Godkänt 20 poäng ***
-
-
-
-
+**Total:** 29 poäng /
+**Godkänt:** 20 poäng 
