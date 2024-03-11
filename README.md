@@ -13,5 +13,5 @@
 
 
 
-**Total:** 29 poäng /
-**Godkänt:** 20 poäng 
+**Total:** 27 poäng /
+**Godkänt:** 18 poäng 
